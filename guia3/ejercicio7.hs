@@ -1,0 +1,13 @@
+-- square (square (3+7))
+-- orden aplicativo
+-- square square 10
+-- square 10*10
+-- square 100
+-- 100 * 100
+-- 1000000
+-- orden normal
+-- square (3+7) * square (3+7)
+-- (3+7) * (3+7) * square (3+7)
+-- (3+7) * (3+7) * (3+7) * (3+7)
+-- 10 * 10 * 10 * 10
+-- 1000000
